@@ -1,4 +1,4 @@
-## Olá 🌍, eu sou a Gabriela!  
+## Olá 🌍, eu sou Gabriela!  
   
 
 <a href="https://linkedin.com/in/gabriela-siqueira-caputti" target="_blank">
