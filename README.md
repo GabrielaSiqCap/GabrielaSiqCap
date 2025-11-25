@@ -11,7 +11,7 @@
 
 
 
-### ☀️ Seja bem-vindo ao meu Github :)  
+### Seja bem-vindo ao meu Github :)  
 
 Sou estudante e estou no último semestre do curso técnico em Desenvolvimento de Sistemas (DS). Minha formação acadêmica se iniciou na escola Sesi junto com a Instituição Senai São Paulo. Sou apaixonada pela arte de transformar ideias em soluções digitais criativas. 
 
